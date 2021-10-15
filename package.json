@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/weo-edu/stream-ssh",
   "dependencies": {
-    "ssh2": "~0.2.21",
+    "ssh2": "~1.0.0",
     "readable-stream": "~1.1.12",
     "corkable": "0.0.0"
   }
